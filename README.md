@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rudhra
 - 👀 I’m interested in collaboration and building open source technologies 
 - 🌱 I’m currently working on a open source project
-- 📫 You can reach out to me at hi@rudhra.io
+- 📫 You can reach out to me at rudhra@inbyte.space
 
 <!---
 rudhraio/rudhraio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
